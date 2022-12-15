@@ -1,2 +1,2 @@
 # g-database
-Database Scheme
+Database Schema
